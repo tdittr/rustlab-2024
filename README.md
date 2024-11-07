@@ -1,6 +1,8 @@
 This repository contains resources for my talk "Chips don't bite!", that I will be giving at RustLab 2024.
 https://rustlab.it/talks/chips-don-t-bite-a-fearless-introduction-to-ucontroller-programming-for-rusteacea
 
+[Slides (PDF)](slides.pdf)
+
 # Resources
 If you want to get started with embedded Rust I can recommend these resources:
 * [micro::bit v2 Embedded Discovery Book](https://github.com/rust-embedded/discovery-mb2)
