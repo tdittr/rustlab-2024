@@ -1,5 +1,6 @@
-This repository contains resources for my talk "Chips don't bite!", that I will be giving at RustLab 2024.
-https://rustlab.it/talks/chips-don-t-bite-a-fearless-introduction-to-ucontroller-programming-for-rusteacea
+This repository contains resources for my talk "Chips don't bite!", that I gave at RustLab 2024.
+
+[Recording](https://youtu.be/vtIovLsacj8)
 
 [Slides (PDF)](slides.pdf)
 
